@@ -124,6 +124,3 @@ You can install `vercel` cli and follow the instruction [here](https://vercel.co
 
 You can also connect your github account to vercel and have vercel automatically deploy the github repository for you.
 
-## Credit
-
-Based on M4TT72's awesome [Terminal](https://github.com/m4tt72/terminal).
