@@ -31,7 +31,7 @@ export const repo = async (args: string[]): Promise<string> => {
 
 // About
 export const about = async (args: string[]): Promise<string> => {
-  return `Hi, I am ${config.name}. 
+  return `Hi, I am ${config.name} student at Mumbai University currently pursuing computer science. 
 Welcome to my portfolio website!
 More about me:
 'sumfetch' - short summary.
@@ -150,7 +150,7 @@ export const banner = (args?: string[]): string => {
 ██║  ██║██║██╔██╗ ██║█████╗  ███████╗███████║       ██║   ███████║██╔████╔██║███████║██╔██╗ ██║██║  ███╗
 ██║  ██║██║██║╚██╗██║██╔══╝  ╚════██║██╔══██║       ██║   ██╔══██║██║╚██╔╝██║██╔══██║██║╚██╗██║██║   ██║
 ██████╔╝██║██║ ╚████║███████╗███████║██║  ██║       ██║   ██║  ██║██║ ╚═╝ ██║██║  ██║██║ ╚████║╚██████╔╝
-╚═════╝ ╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝╚═╝  ╚═╝       ╚═╝   ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ 
+╚═════╝ ╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝╚═╝  ╚═╝       ╚═╝   ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚════
 </div>                                                                                                    
 
 Type 'help' to see the list of available commands.

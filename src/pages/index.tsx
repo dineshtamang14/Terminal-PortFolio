@@ -41,7 +41,7 @@ const IndexPage: React.FC<IndexPageProps> = ({ inputRef }) => {
       <Head>
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="theme-color" content="#000000" />
-        <link rel="shortcut icon" href="../assets/favicon.jpg" type="image/x-icon" />
+        <link rel="shortcut icon" href="favicon.jpg" type="image/x-icon" />
 
         <title>Dinesh Tamang | AWS Solution Architect | Mumbai, India</title>
         <meta name="description" content="Dinesh Tamang student at Mumbai University, currently in fourth year B.E. Computer Science. Technical skill includes programming in python, java, c++, typescript, Node.js and Databases such as
